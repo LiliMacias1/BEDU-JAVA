@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BEDU-JAVA.iml" filepath="$PROJECT_DIR$/.idea/BEDU-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Modulo 1.iml" filepath="$PROJECT_DIR$/Modulo 1/Modulo 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 1/Reto 1.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 1/Reto 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 2/Reto 2.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 2/Reto 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 2/Reto-1/Reto-1.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 2/Reto-1/Reto-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 1/Sesion 1.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 1/Sesion 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 2/Sesion 2.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 2/Sesion 2.iml" />
+    </modules>
+  </component>
+</project>
