@@ -3,6 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BEDU-JAVA.iml" filepath="$PROJECT_DIR$/.idea/BEDU-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-1/M2S1R1/M2S1R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-1/M2S1R1/M2S1R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-1/M2S1R2/M2S1R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-1/M2S1R2/M2S1R2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-2/M2S2R1/M2S2R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-2/M2S2R1/M2S2R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-2/M2S2R2/M2S2R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-2/M2S2R2/M2S2R2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-3/M2S3R1/M2S3R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-3/M2S3R1/M2S3R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-3/M2S3R2/M2S3R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-3/M2S3R2/M2S3R2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-4/M2S4R1/M2S4R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-4/M2S4R1/M2S4R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-4/M2S4R2/M2S4R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-4/M2S4R2/M2S4R2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-5/M2S5R1/M2S5R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-5/M2S5R1/M2S5R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-5/M2S5R2/M2S5R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-5/M2S5R2/M2S5R2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-6/M2S6R1/M2S6R1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-6/M2S6R1/M2S6R1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-6/M2S6R2/M2S6R2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-6/M2S6R2/M2S6R2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 1/Modulo 1.iml" filepath="$PROJECT_DIR$/Modulo 1/Modulo 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2/Modulo 2.iml" filepath="$PROJECT_DIR$/Modulo 2/Modulo 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 1/Reto 1.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 1/Reto 1/Reto 1.iml" />
@@ -27,7 +39,6 @@
       <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 5/Sesion 5.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 5/Sesion 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 6/Sesion 6.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 6/Sesion 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 7/Sesion 7.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 7/Sesion 7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modulo 1/Sesion 8/Sesion 8.iml" filepath="$PROJECT_DIR$/Modulo 1/Sesion 8/Sesion 8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-1/Sesion-1.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-1/Sesion-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-2/Sesion-2.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-2/Sesion-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo 2/Sesion-3/Sesion-3.iml" filepath="$PROJECT_DIR$/Modulo 2/Sesion-3/Sesion-3.iml" />
